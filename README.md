@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **projects where I can contribute to code development and learn from experienced developers.**
 
-- 👨‍💻 All of my projects are available at [https://misokuhle-portfolio.netlify.app/](https://misokuhle-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://misokuhle.netlify.app/](https://misokuhle.netlify.app/)
 
 - 📫 How to reach me **misokuhle46@gmail.com**
 
