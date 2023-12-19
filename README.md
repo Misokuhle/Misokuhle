@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/angelokuhle01" target="blank"><img src="https://img.shields.io/twitter/follow/angelokuhle01?logo=twitter&style=for-the-badge" alt="angelokuhle01" /></a> </p>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Misokuhle/Weather-App)
-
 - 🌱 I’m currently learning **JavaScript and react.**
 
 - 👯 I’m looking to collaborate on **projects where I can contribute to code development and learn from experienced developers.**
