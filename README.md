@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **projects where I can contribute to code development and learn from experienced developers.**
 
 - 📫 How to reach me **misokuhle46@gmail.com**
-<p align="center"> 0792688626 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/angelokuhle01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelokuhle01" height="30" width="40" /></a>
